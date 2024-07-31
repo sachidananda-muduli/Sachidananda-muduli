@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+my+name+is+Sachidananda+Muduli)
+Hi there, my name is Sachidananda Muduli
 
 ![Matrix Effect](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -24,7 +24,6 @@ I'm Sachidananda Muduli, a 3rd-year Computer Science and Engineering student wit
 #### Version Control & Others
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Connect with Me
