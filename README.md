@@ -1,4 +1,4 @@
-# hi my name is Sachidananda Muduli
+# Hi my name is Sachidananda Muduli
 
 ![Matrix Effect](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
