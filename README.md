@@ -3,7 +3,7 @@
 ## Hi there, my name is Sachidananda Muduli
 
 ### 👨‍💻 About Me
-I'm Sachidananda Muduli, a 3rd-year Computer Science and Engineering student with a strong interest in Machine Learning, Artificial Intelligence, and Data Science. I'm passionate about exploring the potential of these technologies and am actively learning Python to enhance my skill set.
+I'm Sachidananda Muduli, a 4th-year Computer Science and Engineering student with a strong interest in Machine Learning, Artificial Intelligence, and Data Science. I'm passionate about exploring the potential of these technologies and am actively learning Python to enhance my skill set.
 
 ### 🔧 Languages and Tools
 
